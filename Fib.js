@@ -50,8 +50,8 @@ class Fibonacci {
     }
 }
 
-var fib = new Fibonacci(6);
+var fib = new Fibonacci(6); // The 6th Fibonacci number is: 8
 
-fib.calculateFib(10);
-fib.calculateFib(14);
-fib.calculateFib(15);
+fib.calculateFib(10); // The 10th Fibonacci number is: 55
+fib.calculateFib(14); // The 14th Fibonacci number is: 377
+fib.calculateFib(15); // The 15th Fibonacci number is: 610
